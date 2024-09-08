@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "+AVpf4u0uJVvfXp22a+VZJVzLH5kvVlYVrDIlBUP58yNa7eLBlPKq4TIuR6hi6dbIcEBmia1Y3ijxxmJ9ngNuQ==",
+  "success": true,
+  "projectFilePath": "/Users/macpro/Documents/netcore/Customer/CustomerRankService/CustomerRankService.csproj",
+  "expectedPackageFiles": [
+    "/Users/macpro/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/macpro/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/macpro/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/macpro/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/macpro/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/macpro/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/macpro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/macpro/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/macpro/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
